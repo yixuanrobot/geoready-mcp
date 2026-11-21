@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "geoready-mcp"
-version = "1.0.0"
+version = "1.1.0"
 description = "Zero-dependency MCP server for 2026 Generative Engine Optimization (GEO), llms.txt validation, Accept: text/markdown token efficiency & JSON-LD schema auditing."
 readme = "README.md"
 license = { text = "MIT" }
