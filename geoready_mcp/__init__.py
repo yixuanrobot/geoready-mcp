@@ -1,3 +1,3 @@
-"""GeoReady MCP Server — 8-Point Generative Engine Optimization (GEO) & Agent Readiness Auditor."""
+"""AI True Labs — AI Shopping & GMC Schema Auditor MCP Server (Shopify ChatGPT Readiness)."""
 
-__version__ = "1.0.0"
+__version__ = "1.2.0"
